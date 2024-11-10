@@ -8,3 +8,8 @@ console.log('My Name is' + name1)
 
 }
 
+function newFun()
+{
+
+    console.log('Hey I am new Function')
+}
