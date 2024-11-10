@@ -8,8 +8,3 @@ console.log('My Name is' + name1)
 
 }
 
-function isAbove18()
-{
-
-    return age >= 18
-}
